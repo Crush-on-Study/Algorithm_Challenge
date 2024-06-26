@@ -1,2 +1,3 @@
 # Algorithm_Challenge
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+- 기초를 다지기 위한 알고리즘 문제 풀이 레포입니다! (백준허브 사용 중 - 크롬 익스텐션)
